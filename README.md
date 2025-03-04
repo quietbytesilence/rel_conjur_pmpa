@@ -63,5 +63,5 @@ function exemploUso() {
 
 ## Licença
 
-Este projeto é de uso interno da Consultoria Jurídica da PMPA e não possui licença aberta para distribuição externa.
+Padrão GitHub
 
